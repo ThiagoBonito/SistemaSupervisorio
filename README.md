@@ -6,5 +6,5 @@
 <br>
 <h4>Sistema gravando os dados permitidos:</h4>
 <img width="600px" height="400px" src="https://user-images.githubusercontent.com/90625307/142942594-0dc85cde-8a6b-4a2e-8994-f0422ca424a9.png">
-<h4>Sistema alertando valor acima do permitido:</h4>
+<h4>Sistema gravando os dados e alertando que o valor excedeu o limite:</h4>
 <img width="600px" height="400px" src="https://user-images.githubusercontent.com/90625307/142942949-9abd142d-b5a9-4603-bc55-f9be183abb76.png">
