@@ -1,0 +1,18 @@
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\bin\Debug\SistemaSupervisorio.exe.config
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\bin\Debug\SistemaSupervisorio.exe
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\bin\Debug\SistemaSupervisorio.pdb
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.Form1.resources
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.exe
+c:\users\unisanta\documents\visual studio 2017\Projects\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.pdb
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\bin\Debug\SistemaSupervisorio.exe.config
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\bin\Debug\SistemaSupervisorio.exe
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\bin\Debug\SistemaSupervisorio.pdb
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.csprojResolveAssemblyReference.cache
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.Form1.resources
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.Properties.Resources.resources
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.csproj.GenerateResource.Cache
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.exe
+E:\Faculdade\Asenjo\4° Semestre\Linguagem de Programação IV\TP08\SistemaSupervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.pdb
